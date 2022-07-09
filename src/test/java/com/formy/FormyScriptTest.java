@@ -38,8 +38,9 @@ public class FormyScriptTest extends BaseClass{
 	}
 	@Test
 	public void loginPage() {
-		
-		System.err.println("please write login code");
+	do it fast
+	
+	
 	}
 
 }
