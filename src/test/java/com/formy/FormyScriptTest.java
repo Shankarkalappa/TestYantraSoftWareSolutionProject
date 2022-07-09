@@ -10,7 +10,7 @@ import com.formy.objectrepository.FormyPage;
 
 public class FormyScriptTest extends BaseClass{
 	
-	//@Test
+	@Test
 	public void formyApplication() {
 		
 		FormyPage fp= new FormyPage(driver);
@@ -36,13 +36,4 @@ public class FormyScriptTest extends BaseClass{
 		Assert.assertEquals(true, actualSuccesFullMessage.contains(expectedSucessFullMessage));
 		Reporter.log("Form is Successfully Submited", true);
 	}
-
-	@Test
-	public void loginPage() {
-	
-	Hey i told to Write Login code not a java code
-	
-	
-	}
-
 }
