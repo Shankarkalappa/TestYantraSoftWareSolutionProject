@@ -10,7 +10,7 @@ import com.formy.objectrepository.FormyPage;
 
 public class FormyScriptTest extends BaseClass{
 	
-	@Test
+	//@Test
 	public void formyApplication() {
 		
 		FormyPage fp= new FormyPage(driver);
@@ -40,7 +40,11 @@ public class FormyScriptTest extends BaseClass{
 	@Test
 	public void loginPage() {
 	
-	System.out.println("You are in Log in page");
+	int n='A'/'A';
+	String num="..........";
+	for (int i = n; i <=num.length()*num.length(); i++) {
+		System.out.println(i);
+	}
 	
 	
 	}
