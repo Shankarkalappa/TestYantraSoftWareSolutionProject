@@ -40,11 +40,7 @@ public class FormyScriptTest extends BaseClass{
 	@Test
 	public void loginPage() {
 	
-	int n='A'/'A';
-	String num="..........";
-	for (int i = n; i <=num.length()*num.length(); i++) {
-		System.out.println(i);
-	}
+	Hey i told to Write Login code not a java code
 	
 	
 	}
