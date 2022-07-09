@@ -36,5 +36,10 @@ public class FormyScriptTest extends BaseClass{
 		Assert.assertEquals(true, actualSuccesFullMessage.contains(expectedSucessFullMessage));
 		Reporter.log("Form is Successfully Submited", true);
 	}
+	@Test
+	public void loginPage() {
+		
+		System.err.println("please write login code");
+	}
 
 }

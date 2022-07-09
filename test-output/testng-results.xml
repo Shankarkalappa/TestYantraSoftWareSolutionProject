@@ -8,24 +8,24 @@
       <![CDATA[Form is Successfully Submited]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-07-08T21:20:39 IST" name="Default suite" finished-at="2022-07-08T21:20:44 IST" duration-ms="5467">
+  <suite started-at="2022-07-09T19:51:02 IST" name="Default suite" finished-at="2022-07-09T19:51:11 IST" duration-ms="9303">
     <groups>
     </groups>
-    <test started-at="2022-07-08T21:20:39 IST" name="Default test" finished-at="2022-07-08T21:20:44 IST" duration-ms="5467">
+    <test started-at="2022-07-09T19:51:02 IST" name="Default test" finished-at="2022-07-09T19:51:11 IST" duration-ms="9303">
       <class name="com.formy.FormyScriptTest">
-        <test-method is-config="true" signature="establishDataBaseConnection()[pri:0, instance:com.formy.FormyScriptTest@57cf54e1]" started-at="2022-07-08T21:20:39 IST" name="establishDataBaseConnection" finished-at="2022-07-08T21:20:39 IST" duration-ms="5" status="PASS">
+        <test-method is-config="true" signature="establishDataBaseConnection()[pri:0, instance:com.formy.FormyScriptTest@2ea41516]" started-at="2022-07-09T19:51:02 IST" name="establishDataBaseConnection" finished-at="2022-07-09T19:51:02 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- establishDataBaseConnection -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.formy.FormyScriptTest@57cf54e1]" started-at="2022-07-08T21:20:39 IST" name="launchBrowser" finished-at="2022-07-08T21:20:40 IST" duration-ms="1373" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.formy.FormyScriptTest@2ea41516]" started-at="2022-07-09T19:51:02 IST" name="launchBrowser" finished-at="2022-07-09T19:51:06 IST" duration-ms="4614" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:com.formy.FormyScriptTest@57cf54e1]" started-at="2022-07-08T21:20:40 IST" name="loginToApplication" finished-at="2022-07-08T21:20:43 IST" duration-ms="3054" status="PASS">
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:com.formy.FormyScriptTest@2ea41516]" started-at="2022-07-09T19:51:06 IST" name="loginToApplication" finished-at="2022-07-09T19:51:10 IST" duration-ms="3247" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToApplication -->
-        <test-method signature="formyApplication()[pri:0, instance:com.formy.FormyScriptTest@57cf54e1]" started-at="2022-07-08T21:20:43 IST" name="formyApplication" finished-at="2022-07-08T21:20:44 IST" duration-ms="893" status="PASS">
+        <test-method signature="formyApplication()[pri:0, instance:com.formy.FormyScriptTest@2ea41516]" started-at="2022-07-09T19:51:10 IST" name="formyApplication" finished-at="2022-07-09T19:51:11 IST" duration-ms="1194" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title is Verified]]>
@@ -35,15 +35,15 @@
             </line>
           </reporter-output>
         </test-method> <!-- formyApplication -->
-        <test-method is-config="true" signature="logOutFromApplication()[pri:0, instance:com.formy.FormyScriptTest@57cf54e1]" started-at="2022-07-08T21:20:44 IST" name="logOutFromApplication" finished-at="2022-07-08T21:20:44 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logOutFromApplication -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.formy.FormyScriptTest@57cf54e1]" started-at="2022-07-08T21:20:44 IST" name="closeBrowser" finished-at="2022-07-08T21:20:44 IST" duration-ms="121" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.formy.FormyScriptTest@2ea41516]" started-at="2022-07-09T19:51:11 IST" name="closeBrowser" finished-at="2022-07-09T19:51:11 IST" duration-ms="229" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="closeDatabaseConnection()[pri:0, instance:com.formy.FormyScriptTest@57cf54e1]" started-at="2022-07-08T21:20:44 IST" name="closeDatabaseConnection" finished-at="2022-07-08T21:20:44 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="logOutFromApplication()[pri:0, instance:com.formy.FormyScriptTest@2ea41516]" started-at="2022-07-09T19:51:11 IST" name="logOutFromApplication" finished-at="2022-07-09T19:51:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromApplication -->
+        <test-method is-config="true" signature="closeDatabaseConnection()[pri:0, instance:com.formy.FormyScriptTest@2ea41516]" started-at="2022-07-09T19:51:11 IST" name="closeDatabaseConnection" finished-at="2022-07-09T19:51:11 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDatabaseConnection -->
